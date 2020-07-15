@@ -3,7 +3,7 @@
 #### By _**Noel Kirkland , Erich Richter, Kate Skorija**_
 
 ## Description
-_This application will take an inputted number and return all prime numbers less than that inputted number.
+_This application will take an inputted number and return all prime numbers less than, or equal to, that inputted number.
 
 ## Setup/Installation Requirements 
 
@@ -23,7 +23,7 @@ _This application will take an inputted number and return all prime numbers less
 Input: "16"
 Output: N/A 
 
-* Behavior: The Program will return all prime numbers less than the inputted number.
+* Behavior: The Program will return all prime numbers less than or equal to the inputted number.
 Input: "16"
 Output: "2, 3, 5, 7, 11, 13"
 
@@ -46,4 +46,4 @@ _Please reach out through our GitHub accounts with any questions._
 
 *MIT Licensing*
 
-Copyright (c) 2020 **_Erich Richter_** **_Kate Skorija_** **_Noel Kirkland_**
+Copyright (c) 2020 **_Erich Richter, Kate Skorija, & Noel Kirkland_**

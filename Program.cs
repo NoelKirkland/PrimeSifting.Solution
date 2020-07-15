@@ -1,19 +1,13 @@
-using ToDoList.Models;
 using System;
+using PrimeSifting.Models;
 
 namespace PrimeSifting
 {
-
-  class Program
+  public class Program
   {
-
     public static void Main()
     {
 
-
-
-
-      
     }
   }
 }
